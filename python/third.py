@@ -1,0 +1,1 @@
+print("NAmo namah AAA");
