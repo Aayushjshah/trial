@@ -1,1 +1,2 @@
-third.py
+third.py	#wont work since .gitignore created after this one was commited 
+fourth.py		#works fine!
